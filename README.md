@@ -75,9 +75,13 @@ Analyzed hosts with multiple listings using boxplots to identify key contributor
 Used pair plots to show relationships between number of reviews, price, and availability.
 
 ### 3. Data Visualization
+
 Pairplot: To see correlations among price, availability, and number of reviews.
+
 Heatmap: Showing correlations among numerical features.
+
 Histograms and Boxplots: To detect outliers in price.
+
 Bar Charts: Displaying room types and neighborhood group distributions.
 
 ## Key Findings and Insights
